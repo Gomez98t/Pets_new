@@ -1,1 +1,2 @@
-# Pets_neww
+# pets
+My pets' store
